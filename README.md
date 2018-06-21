@@ -10,4 +10,4 @@ Node.js bot mainly used for functions around the Beawy server. Currently in deve
 ## Downloading the bot onto your server
 At this time, Beawbot is still in development and is highly unstable. I haven't even joined it to my own server yet, I've been using Space Boat as an alternative (https://github.com/Votyn/SpaceBoat/). In the future, I will provide a way to install the bot for everyone. When files appear in this repository, I will not provide instructions for them. Use at your own risk. I am not responsible for any incidents that are caused by Beawbot.
 ## Bot snapshot
-If you'd like a look at what the bot looks like, please visit http://bot.beawy.tk/git/beawbot/preview. 
+If you'd like a look at what the bot looks like, please visit 
